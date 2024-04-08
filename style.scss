@@ -10,7 +10,7 @@ body {
 }
 
 p {
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .wrapper {
@@ -29,16 +29,16 @@ p {
 
 .container {
   background-color: $white;
-  width: 370px;
-  padding: 20px;
+  width: 300px;
+  padding: 15px;
   border-radius: 20px;
 }
 
 .card-body {
-  padding: 0px 40px;
+  padding: 0px 20px;
 
   h1 {
-    font-size:25px;
+    font-size:20px;
     color:$dark-blue;
     text-align: center;
   }
